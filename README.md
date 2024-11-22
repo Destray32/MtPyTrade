@@ -18,3 +18,7 @@ To run the script, simply execute the `main.py` file:
 `python main.py`
 
 The script will connect to MetaTrader5 and start trading according to the strategy. It will print the details of the trades on the console.
+
+## Disclaimer
+This project is for educational and research purposes only. It is not intended to provide financial, investment, or trading advice. Use it at your own risk. The developers are not responsible for any financial losses or damages arising from the use of this tool. Always consult a financial professional before making trading or investment decisions.
+
